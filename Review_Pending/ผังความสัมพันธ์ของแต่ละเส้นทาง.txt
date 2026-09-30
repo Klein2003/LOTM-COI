@@ -1,0 +1,96 @@
+เส้นทางที่ใกล้เคียงกันอย่างสมบูรณ์ (Neighbouring Pathways)
+  - กลุ่ม Lord of Mysteries 
+    - Fool
+    - Door
+    - Error
+  - กลุ่ม God Almighty 
+    - Visionary
+    - Sun
+    - Tyrant
+    - White Tower
+    - Hanged Man
+  - กลุ่ม Fourth Pillar
+    - กลุ่ม Eternal Darkness 
+      - Darkness
+      - Death
+      - Twilight Giant
+    - กลุ่ม Calamity of Destruction 
+      - Demoness
+      - Red Priest
+  - กลุ่ม Demon of Knowledge 
+    - Hermit
+    - Paragon
+  - กลุ่ม Key of Light 
+    - Wheel of Fortune
+  - กลุ่ม Mother Goddess of Depravity
+    - Chaos Primogenitor
+    - กลุ่ม Goddess of Origin 
+      - Moon
+      - Mother
+  - กลุ่ม Son of Chaos 
+    - กลุ่ม Uncertain Mist
+      - Chaos Mist
+    - กลุ่ม The Anarchy
+      - Justiciar
+      - Black Emperor
+  - กลุ่ม Mother Tree of Desire
+    - Patriarch
+    - กลุ่ม Father of Devils
+      - Chained
+      - Abyss
+
+เส้นทางที่เข้ากันได้บางส่วน (Compatible Pathways)
+  - กลุ่มที่ 1
+    - กลุ่ม Uncertain Mist
+    - Sun
+  - กลุ่มที่ 2 
+    - Everlasting (กลุ่ม Inextinguishable Ravings)
+    - Visionary
+    - Hanged Man
+    - White Tower
+    - กลุ่ม Demon of Knowledge
+    - กลุ่ม Father of Devils
+  - กลุ่มที่ 3
+    - Eternal Edict (กลุ่ม Goddess of Fate)
+    - Visionary
+    - White Tower
+    - Fool
+    - Error
+    - Darkness
+    - กลุ่ม Key of Light
+  - กลุ่มที่ 4
+    - Eternal Aeon (กลุ่ม Circle of Inevitability)
+    - Fool
+    - Error
+    - กลุ่ม Eternal Darkness
+    - กลุ่ม Calamity of Destruction
+    - กลุ่ม Key of Light
+  - กลุ่มที่ 5
+    - Second Law (กลุ่ม Monarch of Decay)
+    - กลุ่ม Eternal Darkness
+    - กลุ่ม Calamity of Destruction
+  - กลุ่มที่ 6
+    - Sublunary Eye (กลุ่ม High-Dimensional Overseer)
+    - Visionary
+    - Door
+    - Error
+    - กลุ่ม Twilight Giant
+    - กลุ่ม Demon of Knowledge
+    - กลุ่ม The Anarchy
+  - กลุ่มที่ 7
+    - Condenser (กลุ่ม Supernova Dominator)
+    - Sun
+    - Tyrant
+    - กลุ่ม Calamity of Destruction
+    - กลุ่ม Demon of Knowledge
+    - กลุ่ม The Anarchy
+  - กลุ่มที่ 8
+    - Tail-Devourer (กลุ่ม Primordial Hunger)
+    - กลุ่ม Lord of Mysteries
+    - กลุ่ม God Almighty 
+    - กลุ่ม Fourth Pillar
+    - กลุ่ม Demon of Knowledge
+    - กลุ่ม Key of Light 
+    - กลุ่ม Mother Goddess of Depravity
+    - กลุ่ม Son of Chaos
+    - กลุ่ม Mother Tree of Desire
